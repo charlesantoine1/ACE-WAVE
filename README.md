@@ -1,5 +1,5 @@
-Wave data were collected during the ACE cruise http://spi-ace-expedition.ch/
-This Git project aims at reconstructing the wave characteristics drom the GPS/IMU signal when WaMoS data are not available.
+Wave data were collected during the ACE cruise http://spi-ace-expedition.ch/ .
+This Git project started during he Data jam Days at the EPFL aims at reconstructing the wave characteristics drom the GPS/IMU signal when WaMoS data are not available.
 
 Alberto Alberello alberto.alberello@outlook.com
 
