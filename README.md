@@ -1,6 +1,13 @@
 Purpose:
 Retrieve wave characteristics from a GPS/IMU signal when WaMoS wave radar are not available.
 
+Participants: 
+Alberto Albarello
+Antoine Ratouis
+Charles-Antoine Kuszli
+#datajamdays
+#epfl
+
 Data available:
 .- WaMoS wave spectra are not only available for the entire ACE cruise. The radar was switched off at some point during the cruise. Furthermore the radar do not provide reliable informations in ice infested seas do to the backscatter of floes.
 Wamos file: includes synthetic information on the ship speed/heading and wave metocean conditions. The full 2 dimensional spectrum is available (90 directions x 64 frequencies) 
