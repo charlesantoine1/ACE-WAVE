@@ -2,9 +2,9 @@ Purpose:
 Retrieve wave characteristics from a GPS/IMU signal when WaMoS wave radar are not available.
 
 Participants: 
-Alberto Albarello
-Antoine Ratouis
-Charles-Antoine Kuszli
+Alberto Alberello alberto.alberello@outlook.com
+Antoine Ratouis antoine.ratouis@gmail.com
+Charles-Antoine Kuszli c.a.kuszli@gmail.com
 #datajamdays
 #epfl
 
