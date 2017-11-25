@@ -8,13 +8,14 @@ Charles-Antoine Kuszli c.a.kuszli@gmail.com
 #datajamdays
 #epfl
 
-Data available:
+Data descrription:
 .- WaMoS wave spectra are not only available for the entire ACE cruise. The radar was switched off at some point during the cruise. Furthermore the radar do not provide reliable informations in ice infested seas do to the backscatter of floes.
 Wamos file: includes synthetic information on the ship speed/heading and wave metocean conditions. The full 2 dimensional spectrum is available (90 directions x 64 frequencies) 
 .- GPS 1hr time series at 1Hz including: Lat, Long, Altitude (Heave), Roll, Pitch, Ship Heading, Ship speed, ... as indicated in the header.
 
-Data not available:
-Position of the GPS emitter on the ship.
+Data are available at
+https://data.aad.gov.au/metadata/records/AAS_4434_ACE_GPS
+https://data.aad.gov.au/metadata/records/AAS_4434_ACE_WAMOS
 
 Proposed Methodology:
 Calibrate/Validate a model to reconstruct the wave properties from the GPS/IMU.
